@@ -1,0 +1,20 @@
+
+Ideas?
+	Create basic GUI widgets and create a debugging GUI, which will eventually
+	be made into a map making GUI.
+	
+	Ensure that the visible area of the window remains consistent, meaning
+	that sprites would have to be resized by a factor to keep the viewport
+	consistent. Not totally required for some games, but for GUIs it is a must.
+
+	Modify OveralyElement to make sure that sprites within the element are 
+	only rendered within the size of the element, meaning it will get cut off
+	if it extends passed the bounds of the element
+
+	Since rotation has been added, hitbox management is needed. Create a hitbox
+	class of sorts that can hold all sorts of hitboxes i gguess?
+
+
+Current Issue:
+
+

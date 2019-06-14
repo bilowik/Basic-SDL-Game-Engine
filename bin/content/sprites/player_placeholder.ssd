@@ -1,0 +1,5 @@
+4
+0,0,16,32, playerPlaceholder_Standing
+16,0,16,32, playerPlaceholder_Running1
+32,0,16,32, playerPlaceholder_Running2
+48,0,16,32, playerPlaceholder_Running3

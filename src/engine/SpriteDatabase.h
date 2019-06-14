@@ -1,0 +1,9 @@
+#ifndef SMPENGINE_SPRITEDATABASE_H
+#define SMPENGINE_SPRITEDATABASE_H
+
+
+
+
+
+
+#endif

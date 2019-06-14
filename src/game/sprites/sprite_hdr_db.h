@@ -1,0 +1,6 @@
+#include "game/sprites/physBall.h"
+#include "game/sprites/player.h"
+#include "game/sprites/terrainSquare.h"
+#include "game/sprites/crosshair.h"
+#include "game/sprites/wallpaper.h"
+#include "game/sprites/cursor.h"

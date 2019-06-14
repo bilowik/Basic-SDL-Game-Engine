@@ -1,0 +1,4 @@
+3
+0,0,32,32, Static
+32,0,32,32, StartMoving
+64,0,32,32, Moving
